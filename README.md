@@ -11,7 +11,7 @@ boasVindas()
 <body class="corpo-readme">
     <section class="uno">
     <h1 align="center">💻 Sobre</h1> 
-    <p>Olá, bem vindo ao meu perfil! <br> No mesmo serão postados códigos referentes aos meu estudos nas <br> tecnologias envolvidas (HTML5, CSS3, JS, PHP, Python e entre outras).</p>
+    <p>Olá, bem vindo ao meu perfil! <br> No mesmo serão postados códigos referentes aos meu estudos nas <br> tecnologias seguintes: HTML5, CSS3, JS, PHP, Python e Django, e C/C++ .</p>
     <br>
     <section class="dois"> 
         <h1 align="center"><b>🖥Tecnologias presentes nos repositórios</b></h1>
