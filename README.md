@@ -1,9 +1,10 @@
-``` python
+```python
 def boasVindas():
     print("Olá, usuário! Seja bem vindo ao meu humilde repositório no GitHub!!")
 
 boasVindas()
 ```
+
 <br>
 <head> 
     <meta charset="UTF-8">
