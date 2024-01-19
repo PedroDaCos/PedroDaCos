@@ -5,10 +5,13 @@ def boasVindas():
 boasVindas()
 ```
 <br>
+<head> 
+    <meta charset="UTF-8">
+</head> 
 <body class="corpo-readme">
     <section class="uno">
     <h1 align="center">💻 Sobre</h1> 
-    <p>Olá, bem vindo ao meu perfil! <br> No mesmo, serão postados codigos referentes aos meu estudos nas <br> tecnologias envolvidas (HTML5, CSS3, JS, PHP, Python e entre outras).</p>
+    <p>Olá, bem vindo ao meu perfil! <br> No mesmo serão postados codigos referentes aos meu estudos nas <br> tecnologias envolvidas (HTML5, CSS3, JS, PHP, Python e entre outras).</p>
     <br>
     <section class="dois"> 
         <h1 align="center"><b>🖥Tecnologias presentes nos repositórios</b></h1>
