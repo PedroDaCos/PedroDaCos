@@ -5,10 +5,10 @@
     <section class="uno">
         <table>
             <tr>
-                <td align='left'>
+                <td>
                     <img src="https://github-readme-stats.vercel.app/api?username=PedroDaCos&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
                 </td>
-                <td align='right'>
+                <td>
                     <h1 align="center">💻 Sobre 💻</h1>
             <p>Olá, bem vindo ao meu perfil! <br> No mesmo serão postados códigos referentes aos meu estudos nas <br> tecnologias seguintes: HTML5, CSS3, JS, PHP, Python e Django, e C/C++ .</p>
                 </td>
