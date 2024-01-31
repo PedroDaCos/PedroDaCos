@@ -20,19 +20,19 @@
         <tr>
              <h1 align="center"><b>💻 Tecnologias presentes nos repositórios 💻</b></h1>
         <td>
-            <p><b>=> Estudos e Projetos em <a href=""> HTML e CSS</a><b></p>
+            <p align='center'><b>=> Estudos e Projetos em <a href=""> HTML e CSS</a><b></p>
         </td>
          <td>
-            <p><b>=> Estudos e Projetos em <a href=""> PHP</a><b></p>
+            <p align='center'><b>=> Estudos e Projetos em <a href=""> PHP</a><b></p>
         </td>
          <td>
-            <p><b>=> Estudos e Projetos em <a href=""> Javascript</a><b></p>
+            <p align='center'><b>=> Estudos e Projetos em <a href=""> Javascript</a><b></p>
         </td>
          <td>
-             <p><b>=> Estudos e Projetos em <a href=""> Python/Django</a><b></p>
+             <p align='center'><b>=> Estudos e Projetos em <a href=""> Python/Django</a><b></p>
         </td>
          <td>
-            <p><b>=> Estudos e Projetos em <a href=""> C/C++</a><b></p>
+            <p align='center'><b>=> Estudos e Projetos em <a href=""> C/C++</a><b></p>
         </td>
         </tr>
             </table>
