@@ -10,7 +10,7 @@
                 </td>
                 <td>
                     <h1 align="center">💻 Sobre 💻</h1>
-            <p>Olá, bem vindo ao meu perfil! <br> No mesmo serão postados códigos referentes aos meu estudos nas tecnologias seguintes: HTML5, CSS3, JS, PHP, Python e Django, e C/C++ .</p>
+            <p>Olá, bem vindo ao meu perfil! <br> No mesmo serão postados códigos referentes aos meu estudos nas tecnologias seguintes: <br> HTML5, CSS3, JS, PHP, Python e Django, e C/C++ .</p>
                 </td>
             </tr>
         </table>
