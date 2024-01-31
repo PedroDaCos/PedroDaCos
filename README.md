@@ -1,35 +1,50 @@
-```python
-def boasVindas():
-    print("Olá, usuário! Seja bem vindo ao meu humilde repositório no GitHub!!")
-
-boasVindas()
-```
-
-<br>
-<head> 
-    <meta charset="UTF-8">
-</head> 
+<head>
+<meta charset="UTF-8">
+</head>
 <body class="corpo-readme">
     <section class="uno">
-    <h1 align="center">💻 Sobre</h1> 
-    <p>Olá, bem vindo ao meu perfil! <br> No mesmo serão postados códigos referentes aos meu estudos nas <br> tecnologias seguintes: HTML5, CSS3, JS, PHP, Python e Django, e C/C++ .</p>
+        <table>
+            <tr>
+                <td align='left'>
+                    <img src="https://github-readme-stats.vercel.app/api?username=PedroDaCos&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+                </td>
+                <td align='right'>
+                    <h1 align="center">💻 Sobre 💻</h1>
+            <p>Olá, bem vindo ao meu perfil! <br> No mesmo serão postados códigos referentes aos meu estudos nas <br> tecnologias seguintes: HTML5, CSS3, JS, PHP, Python e Django, e C/C++ .</p>
+                </td>
+            </tr>
+        </table>
     <br>
-    <section class="dois"> 
-        <h1 align="center"><b>🖥Tecnologias presentes nos repositórios</b></h1>
-        <p><b>=> Estudos e Projetos em <a href=""> HTML e CSS</a><b></p>
-        <p><b>=> Estudos e Projetos em <a href=""> Javascript</a><b></p>
-        <p><b>=> Estudos e Projetos em <a href=""> Python/Django</a><b></p>
-        <p><b>=> Estudos e Projetos em <a href=""> PHP</a><b></p>
-        <p><b>=> Estudos e Projetos em <a href=""> C/C++</a><b></p>
+    <section class="dois">
+        <table>
+        <tr>
+             <h1 align="center"><b>💻 Tecnologias presentes nos repositórios 💻</b></h1>
+        <td>
+            <p><b>=> Estudos e Projetos em <a href=""> HTML e CSS</a><b></p>
+        </td>
+         <td>
+            <p><b>=> Estudos e Projetos em <a href=""> PHP</a><b></p>
+        </td>
+         <td>
+            <p><b>=> Estudos e Projetos em <a href=""> Javascript</a><b></p>
+        </td>
+         <td>
+             <p><b>=> Estudos e Projetos em <a href=""> Python/Django</a><b></p>
+        </td>
+         <td>
+            <p><b>=> Estudos e Projetos em <a href=""> C/C++</a><b></p>
+        </td>
+        </tr>
+            </table>
     </section>
     <br>
-    <section class="tres"> 
-        <div class="imagens"> 
-                <figure> 
+    <section class="tres">
+        <div class="imagens">
+                <figure>
             <h2 align="center">
-                 <img align="center" alt="sudoPedro-Python" height="46" width="54" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg">
-                <img align="center" alt="sudoPedro-Django" height="46" width="54" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg">
                 <img align="center" alt="sudoPedro-PHP" height="46" width="54" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"/>
+                <img align="center" alt="sudoPedro-Python" height="46" width="54" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg">
+                <img align="center" alt="sudoPedro-Django" height="46" width="54" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg">
                 <img align="center" alt="sudoPedro-linux" height="46" width="54" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
                 <img align="center" alt="sudoPedro-Ubuntu" height="46" width="54" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"/>
                 <img align="center" alt="sudoPedro-HTML" height="46" width="54" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -44,17 +59,15 @@ boasVindas()
             </figure>
         </div>
         <br>
-        <footer> 
+        <footer>
             <figure>
             <a href="tel:21971292477" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
             <a href="mailto:2003arthurdacosta8@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
             <a href="https://www.linkedin.com/in/pedro-arthur-5518721a5" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
             <br>
             <p align="right" width="50">
-            <q> O que me preocupa não é o grito dos maus, <br> mas o silêncio dos bons</q> 
-            <br>
-                -Martin Luther King
-            <p>
+                <q> Há várias maneiras de ser entendido: <br> ser claro é uma delas. </q>
+            </p>
             <br>
         </figure>
         </footer>
